@@ -1,1 +1,50 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #0e1a24;
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+}
+
+h1 span {
+  color: #7CFC00;
+}
+
+.card {
+  background: white;
+  color: black;
+  width: 360px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.card img {
+  width: 120px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 18px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.yes-btn {
+  background: #ff4d6d;
+  color: white;
+  margin-right: 10px;
+}
+
+.no-btn {
+  background: #ddd;
+}
 
